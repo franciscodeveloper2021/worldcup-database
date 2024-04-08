@@ -7,7 +7,7 @@ This project consists of scripts and a PostgreSQL database dump related to the F
 The project includes the following files:
 
 - `worldcup.sql`: PostgreSQL database dump containing schema and sample data.
-- `import_data.sh`: Bash script to import data from a CSV file into the PostgreSQL database.
+- `insert_data.sh`: Bash script to import data from a CSV file into the PostgreSQL database.
 - `queries.sh`: Bash script to execute SQL queries against the database.
 - `README.md`: This file, providing an overview of the project.
 
